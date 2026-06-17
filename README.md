@@ -1,66 +1,147 @@
 <div align="center">
 
-# 🌷 Hi, I'm Ayda 🌷
+# ✨ Ayda ✨
 
-✨ Developer • Dreamer • Creator ✨
+### 💻 Software Developer • 🚀 Builder • 🎀 Dreamer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0dDk1dTQzZW8zNnNqM3V5d2JpNW5uM2Z0cG1hZzB6a3o0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="250"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Reality;ASP.NET+Core+Developer;Building+Modern+Web+Applications;Learning+Something+New+Every+Day" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aydarsn80&label=Profile+Views&color=ff69b4&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💕 About Me
+# 🩷 About Me
 
-🌸 Passionate Software Developer
+```yaml
+Name: Ayda
+Role: Software Developer
+Focus: ASP.NET Core MVC
+Database: SQL Server
+Passion: Building useful and beautiful products
+Current Status: Coding & Learning ✨
+```
 
-💻 ASP.NET Core MVC Developer
-
-🎨 UI/UX Lover
-
-🚀 Always Learning New Technologies
-
----
-
-## 🛠️ Tech Stack
-
-- C#
-- ASP.NET Core
-- SQL Server
-- Entity Framework Core
-- HTML / CSS / JavaScript
-- Git & GitHub
+I enjoy creating modern web applications, solving problems,
+and transforming ideas into real-world products.
 
 ---
 
-## 🌟 Current Projects
+# ⚡ Tech Stack
 
-🌾 RoostaBazar
+<div align="center">
 
-🛍️ Marketplace Systems
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,jquery,git,github,visualstudio,vscode,mysql" />
 
-💳 Payment Gateway Integrations
-
-📱 Responsive Web Applications
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🌷 What I Do
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydarsn80&show_icons=true)
+✨ Backend Development
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aydarsn80&layout=compact)
+✨ ASP.NET Core MVC Applications
+
+✨ SQL Server Database Design
+
+✨ REST API Development
+
+✨ Payment Gateway Integration
+
+✨ Responsive UI Design
+
+✨ E-Commerce Systems
 
 ---
 
-## 💖 Fun Fact
+# 🚀 Featured Projects
 
-> Coffee ☕ + Code 💻 = Happiness ✨
+### 🛒 RoostaBazar
+
+A marketplace platform connecting villages, vendors, products, and services.
+
+### 💳 Payment Gateway Integration
+
+Online payment systems with banking and transaction management.
+
+### 📱 Responsive Web Applications
+
+Modern mobile-first user experiences.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydarsn80&show_icons=true&theme=tokyonight&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydarsn80&layout=compact&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aydarsn80&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+# 🎯 Goals
+
+- 🚀 Build impactful products
+- 💡 Learn new technologies
+- 🌍 Create projects that help people
+- ⭐ Contribute to open source
+- 📚 Keep improving every day
+
+---
+
+# 💫 Favorite Quote
+
+> "Small progress every day adds up to big results."
+
+---
+
+# ☕ Current Mood
+
+```csharp
+while(alive)
+{
+    Learn();
+    Code();
+    Improve();
+    Repeat();
+}
+```
+
+---
+
+# 🌸 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/aydarsn80">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 🌸💕
+## ✨ Thanks for visiting my profile ✨
+
+### Have a wonderful day 🤍
 
 </div>
